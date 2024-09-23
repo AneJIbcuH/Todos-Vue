@@ -1,0 +1,1 @@
+export const LS_TODOS_KEY = "localeStorageKeyTodos";
